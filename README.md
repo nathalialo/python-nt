@@ -1,6 +1,7 @@
-### 🐍 Estudos em Python
+### 🐍 Estudos em Python | Python Studies
 
 [PT]
+
 Este repositório reúne meus estudos e práticas em Python, desde os conceitos mais básicos até aplicações intermediárias e avançadas.
 O objetivo é criar um espaço organizado para aprendizado contínuo, com exemplos comentados e projetos práticos.
 
